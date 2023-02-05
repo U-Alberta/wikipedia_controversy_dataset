@@ -4,7 +4,7 @@
 
  In total there are 3 folders, 61 files, totalling 152 GiB uncompressed. The archive was created using the 7zip tool on linux, and it is a multipart file because of the file size restrictions in git.
  
- To access the files, see the *releases* in this repo (to the right).
+ To access the files, see https://github.com/U-Alberta/wikipedia_controversy_dataset/releases/tag/v1.
 
  Please acknowledge the source of the dataset by citing either paper below.
 
